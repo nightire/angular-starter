@@ -1,0 +1,21 @@
+{
+  "name": "visionet-chatter",
+  "version": "0.0.1",
+  "description": "A chatter application designed for Sloth2 originally.",
+  "authors": "yufan <yufan@visionet.com.cn> (http://www.visionet.com.cn)",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "GPL v3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.2.13"
+  },
+  "private": true
+}
