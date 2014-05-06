@@ -1,0 +1,41 @@
+{
+  "name": "visionet-chatter",
+  "version": "0.0.1",
+  "description": "A chatter application designed for Sloth2 originally.",
+  "homepage": "",
+  "main": "",
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start karma.conf.js"
+  },
+  "author": "yufan <yufan@visionet.com.cn> (http://www.visionet.com.cn)",
+  "license": "GPL v3",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "latest",
+    "chai": "latest",
+    "grunt": "latest",
+    "grunt-bowercopy": "latest",
+    "grunt-contrib-coffee": "latest",
+    "grunt-contrib-compass": "latest",
+    "grunt-contrib-connect": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-karma": "latest",
+    "grunt-newer": "latest",
+    "karma": "latest",
+    "karma-chai": "latest",
+    "karma-chrome-launcher": "latest",
+    "karma-coffee-preprocessor": "latest",
+    "karma-firefox-launcher": "latest",
+    "karma-mocha": "latest",
+    "karma-phantomjs-launcher": "latest",
+    "karma-sinon": "latest",
+    "mocha": "latest",
+    "sinon": "latest"
+  },
+  "private": true
+}
